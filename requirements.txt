@@ -1,0 +1,5 @@
+Flask  
+datetime 
+uuid
+Flask-SQLAlchemy
+PyJWT==1.7.1
